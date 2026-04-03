@@ -26,8 +26,8 @@ The CLI calculator is **100% functional** and works for real — you could actua
 ### 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/guinuxli/cdb-calculator-in-rust.git
+cd cdb-calculator-in-rust
 cargo run
 ```
 
@@ -64,8 +64,8 @@ A calculadora CLI feita em Rust é **100% funcional** e funciona de verdade — 
 ### 🚀 Como rodar
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/guinuxli/cdb-calculator-in-rust.git
+cd cdb-calculator-in-rust
 cargo run
 ```
 
